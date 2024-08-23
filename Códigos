@@ -17,11 +17,11 @@
     <h1>Aprendendo PhP</h1>
 
     <?php
-    //esse é um comentário de uma linha
-    # Posso utilizar hashtag para comentário
+    //este  é um comentário de uma linha
+    # Podemos utilizar hashtag para comentário
 
     /*esse é comentario de + de 1 linha
-     posso escrever mais de uma linha*/
+     podemos escrever mais de uma linha*/
     
     echo "Aqui aparece um texto na tela do usuáio";
     //Podemos colocar tag HTML dentro do PHP
